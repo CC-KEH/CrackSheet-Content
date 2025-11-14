@@ -1,12 +1,12 @@
-# CS-SPRINT™
+# CrackSheet™
 
 A free, focused, and open Computer Science learning platform built to help you master core CS concepts with clarity — no ads, no logins, no bloat.
 
 ---
 
-## What is CS-SPRINT™?
+## What is CrackSheet™?
 
-CS-SPRINT™ provides:
+CrackSheet™ provides:
 
 * **High-quality Notes**
 * **Curated Interview Questions**
@@ -22,7 +22,7 @@ Explore instantly — no signup required.
 ## Start Learning
 
 Visit the live site here:
-[https://cs-sprint.netlify.app/](https://cs-sprint.netlify.app/)
+[https://CrackSheet.netlify.app/](https://CrackSheet.netlify.app/)
 
 ---
 
