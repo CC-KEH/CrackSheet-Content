@@ -22,7 +22,7 @@ Explore instantly — no signup required.
 ## Start Learning
 
 Visit the live site here:
-[https://CrackSheet.netlify.app/](https://CrackSheet.netlify.app/)
+[https://cracksheet.com/](https://cracksheet.com/)
 
 ---
 
@@ -71,3 +71,4 @@ If you have questions or feedback, please open an issue or reach out via GitHub.
 Thanks for helping build a better, distraction-free CS learning experience! 🙌
 
 ---
+
